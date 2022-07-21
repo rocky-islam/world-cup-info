@@ -327,6 +327,7 @@ CSS for Upcoming match page
 
     .side-info a {
         width: 200px;
+        margin: 20px 10px;
     }
 
     .main-card {
@@ -343,6 +344,9 @@ CSS for Upcoming match page
     }
 
     .main-footer {
+        width: 100%;
+    }
+    .footer hr{
         width: 100%;
     }
 }
